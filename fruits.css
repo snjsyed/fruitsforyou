@@ -1,0 +1,62 @@
+:root {
+    --pastelmauve: 	#f5d5fb;
+    --pastelbrown:  #e1b4b4;
+    --pastelorange: #f9c1af;
+    --pastelgreen:  #c7eee6;
+    --pastelblue:  #c7eee6 ;
+    width:100%;
+   
+  
+}
+header {color:white;
+    text-shadow: 9px 9px 9px var(--pastelbrown);
+    /* font-size: 91%; */
+    margin-bottom:0px;
+
+}
+footer {color:white;
+    margin-top:10%;
+    text-shadow: 9px 9px 9px var(--pastelmauve);
+    background-color: var(--pastelbrown);
+    /* font-size: 2rem; */
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    background-color: var(--pastelorange);
+    width:100%;
+    
+}
+
+hr {background-color: var(--pastelblue);height:19px;margin-bottom:39px;width:100%;}
+.slider {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    /* padding:20px; */
+
+ 
+}
+
+.w3-button{display:inline-block; color:var(--pastelgreen);
+    /* padding:8px 16px; */
+    /* margin:20px; */
+    padding-right: 9%;
+    margin-left: 3%;
+    vertical-align:middle;overflow:hidden;
+    /* height:222px;
+width:199px;  */
+font-size: 13em;  
+background-color: var(--pastelorange); border:none; 
+text-shadow:7px 7px 7px var(--pastelgreen);
+text-align:center;cursor:pointer;white-space:nowrap}
+
+
+.fruitdesc {
+    color: var(--pastelgreen);
+    text-shadow: 5px 5px 5px var(--pastelbrown);
+    font-size: 5em;
+    text-align: right;
+}
