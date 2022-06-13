@@ -24,7 +24,7 @@
 <img width="200px" src="berry.jpg">
 <div class="fruitdesc"> berries </div> </div>
 <div class="mySlides">
-<img width="200px" src="apple.jpg">
+<img width="200px" src="apple.JPG">
 <div class="fruitdesc"> apple </div> </div>
 <div class="mySlides">
 <img width="200px"src="watermelon.jpg">
